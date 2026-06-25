@@ -1,0 +1,85 @@
+SLUG: "grand-master-wons-taekwondo-oklahoma-city"
+GOOGLE_PLACE_ID: "ChIJKWsGmkk8socRAYj5mMgdycA"
+SCHOOL_NAME: "Grand Master Won's Taekwondo"
+MARTIAL_ART: "Taekwondo"
+SITE_URL: "https://www.gmwons.com"
+DOMAIN: "gmwons.com"
+
+CITY: "Oklahoma City"
+STATE: "OK"
+ZIP: "73160"
+ADDRESS_LINE_1: "10801 S Sunnylane Rd"
+
+PHONE: "(405) 793-0752"
+EMAIL: "gmwons@gmail.com"
+HOURS: "Mon 4:30–7:30pm · Tue & Thu 4:30–8:30pm · Wed 4:30–7:30pm · Fri 4:30–6:30pm · Sat–Sun Closed"
+
+YEAR_FOUNDED: "1980"
+
+PRIMARY_COLOR: "#CC0000"
+SECONDARY_COLOR: "#1a3050"
+LOGO_IMAGE: brand_assets/logo.svg
+FACEBOOK_URL: "https://www.facebook.com/USCentralTKD/"
+INSTAGRAM_URL: ""
+
+HERO_HEADLINE: "Taekwondo for Every Stage of Life."
+HERO_SUBHEADLINE: "Oklahoma City's Premier Taekwondo Academy — Est. 1980"
+HERO_SUBTEXT: "Led by Great Grandmaster In Hui Won, 10th Dan — training champions in Taekwondo, Hapkido, and Gumdo for over 45 years."
+
+SHOW_PROOF_BAR: "true"
+STAR_RATING: "4.6"
+REVIEW_COUNT: "39"
+
+ABOUT_TEXT: "Grand Master Won's Taekwondo has been a pillar of Oklahoma City's martial arts community since 1980. Under Great Grandmaster In Hui Won — 10th Dan and President of the World Taekwondo Hanmookwan Federation — the school cultivates champions, confidence, and character through world-class Taekwondo instruction."
+
+INSTRUCTOR_1_NAME: "Great Grandmaster In Hui Won"
+INSTRUCTOR_1_TITLE: "10th Dan · Founder & Head Instructor"
+INSTRUCTOR_1_BIO: "Great Grandmaster In Hui Won holds a 10th Degree Black Belt and serves as President of the World Taekwondo Hanmookwan Federation, the US Central Taekwondo Association, and the Oklahoma State Taekwondo Association. Since founding the school in 1980, he has trained thousands of students and built one of the most respected Taekwondo organizations in the central United States."
+
+INSTRUCTOR_2_NAME: "Grandmaster John Carpenter"
+INSTRUCTOR_2_TITLE: "9th Dan · Secretary General, World Hanmookwan Federation"
+INSTRUCTOR_2_BIO: "Grandmaster John Carpenter holds a 9th Degree Black Belt and a 4th Degree Hapkido certification. A Class A1 USA Taekwondo Referee, he serves as Vice President of the Oklahoma State Taekwondo Association and has dedicated decades to building the school's competitive program."
+
+PROGRAM_1_NAME: "Taekwondo"
+PROGRAM_1_AGE_RANGE: "All Ages"
+PROGRAM_1_DAYS: "Mon–Fri"
+PROGRAM_1_SESSION_LEN: "60–90 min classes"
+PROGRAM_1_DESCRIPTION: "World-class Taekwondo instruction for beginners through advanced competitors. Develop power, precision, discipline, and confidence under master-level instructors in Oklahoma City's largest Taekwondo facility."
+PROGRAM_1_AUDIENCE_KIDS: "1"
+PROGRAM_1_AUDIENCE_TEENS: "1"
+PROGRAM_1_AUDIENCE_ADULTS: "1"
+
+PROGRAM_2_NAME: "Little Dragons"
+PROGRAM_2_AGE_RANGE: "Ages 3–6"
+PROGRAM_2_DAYS: "Mon–Thu"
+PROGRAM_2_SESSION_LEN: "30–45 min classes"
+PROGRAM_2_DESCRIPTION: "High-energy, age-appropriate classes that introduce young children to Taekwondo fundamentals — focus, listening, coordination, and respect — through fun drills and movement games."
+PROGRAM_2_AUDIENCE_KIDS: "1"
+
+PROGRAM_3_NAME: "Kummooyeh Gumdo"
+PROGRAM_3_AGE_RANGE: "Ages 10 & Up"
+PROGRAM_3_DAYS: "Select evenings"
+PROGRAM_3_SESSION_LEN: "60 min classes"
+PROGRAM_3_DESCRIPTION: "The only program of its kind in the area — traditional Korean sword and archery arts taught by certified instructors. Build focus, discipline, and a deep connection to Korean martial heritage."
+PROGRAM_3_AUDIENCE_TEENS: "1"
+PROGRAM_3_AUDIENCE_ADULTS: "1"
+
+REVIEWER_1_NAME: "Daniel Yoder"
+REVIEWER_1_DATE: "6 months ago"
+REVIEWER_1_TEXT: "Well organized and professionally run. Fantastic instructors. Extremely knowledgeable and patient. Tournaments are fantastic, this place is great."
+
+REVIEWER_2_NAME: "Corinne Williams"
+REVIEWER_2_DATE: "2 years ago"
+REVIEWER_2_TEXT: "Grand Master Won's is a great place to learn Taekwondo. The instructors are knowledgeable, but also patient and helpful. My son has been attending for about a year and greatly enjoys the classes here."
+
+REVIEWER_3_NAME: "Karen M-B"
+REVIEWER_3_DATE: "3 years ago"
+REVIEWER_3_TEXT: "Grand Master Won has been making a wonderful contribution to the community for decades! My kid took classes there for a few years. There are great programs for kids and adults without prioritizing one over the other."
+
+TRIAL_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
+STARTER_KIT_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
+QUIZ_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
+FINAL_CTA_WEBHOOK_URL: "https://PLACEHOLDER-replace-before-build"
+BOOKING_CALENDAR_URL: "https://PLACEHOLDER-replace-before-build"
+
+PRIVACY_POLICY_URL: "https://www.gmwons.com/privacy"
