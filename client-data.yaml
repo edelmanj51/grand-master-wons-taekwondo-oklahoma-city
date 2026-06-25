@@ -12,7 +12,7 @@ ADDRESS_LINE_1: "10801 S Sunnylane Rd"
 
 PHONE: "(405) 793-0752"
 EMAIL: "gmwons@gmail.com"
-HOURS: "Mon 4:30–7:30pm · Tue & Thu 4:30–8:30pm · Wed 4:30–7:30pm · Fri 4:30–6:30pm · Sat–Sun Closed"
+HOURS: "Mon–Thu 4:30–7:30pm · Fri 4:30–6:30pm · Sat 10am (Tournament months)"
 
 YEAR_FOUNDED: "1980"
 
@@ -43,8 +43,8 @@ INSTRUCTOR_2_BIO: "Grandmaster John Carpenter holds a 9th Degree Black Belt and 
 
 PROGRAM_1_NAME: "Taekwondo"
 PROGRAM_1_AGE_RANGE: "All Ages"
-PROGRAM_1_DAYS: "Mon–Fri"
-PROGRAM_1_SESSION_LEN: "60–90 min classes"
+PROGRAM_1_DAYS: "Mon–Fri · 4:30, 5:30 & 6:30pm"
+PROGRAM_1_SESSION_LEN: "45–60 min classes"
 PROGRAM_1_DESCRIPTION: "World-class Taekwondo instruction for beginners through advanced competitors. Develop power, precision, discipline, and confidence under master-level instructors in Oklahoma City's largest Taekwondo facility."
 PROGRAM_1_AUDIENCE_KIDS: "1"
 PROGRAM_1_AUDIENCE_TEENS: "1"
@@ -52,14 +52,14 @@ PROGRAM_1_AUDIENCE_ADULTS: "1"
 
 PROGRAM_2_NAME: "Little Dragons"
 PROGRAM_2_AGE_RANGE: "Ages 3–6"
-PROGRAM_2_DAYS: "Mon–Thu"
+PROGRAM_2_DAYS: "Tue & Thu · 4:30, 5:30 & 6:30pm"
 PROGRAM_2_SESSION_LEN: "30–45 min classes"
 PROGRAM_2_DESCRIPTION: "High-energy, age-appropriate classes that introduce young children to Taekwondo fundamentals — focus, listening, coordination, and respect — through fun drills and movement games."
 PROGRAM_2_AUDIENCE_KIDS: "1"
 
 PROGRAM_3_NAME: "Kummooyeh Gumdo"
 PROGRAM_3_AGE_RANGE: "Ages 10 & Up"
-PROGRAM_3_DAYS: "Select evenings"
+PROGRAM_3_DAYS: "Fridays · 5:30pm"
 PROGRAM_3_SESSION_LEN: "60 min classes"
 PROGRAM_3_DESCRIPTION: "The only program of its kind in the area — traditional Korean sword and archery arts taught by certified instructors. Build focus, discipline, and a deep connection to Korean martial heritage."
 PROGRAM_3_AUDIENCE_TEENS: "1"
