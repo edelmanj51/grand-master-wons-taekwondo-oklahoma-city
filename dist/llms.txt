@@ -1,6 +1,6 @@
 # Grand Master Won's Taekwondo
 
-Grand Master Won's Taekwondo is a martial arts school in Oklahoma City, OK offering Taekwondo, Little Dragons, Kummooyeh Gumdo for kids, teens, and adults.
+Grand Master Won's Taekwondo is a martial arts school in Oklahoma City, OK offering Taekwondo, Little Dragons, Kummooyeh Gumdo, Hapkido, Tai Chi for kids, teens, and adults.
 
 ## About
 Grand Master Won's Taekwondo has been a pillar of Oklahoma City's martial arts community since 1980.
@@ -9,6 +9,8 @@ Grand Master Won's Taekwondo has been a pillar of Oklahoma City's martial arts c
 - Taekwondo
 - Little Dragons
 - Kummooyeh Gumdo
+- Hapkido
+- Tai Chi
 
 ## Location
 10801 S Sunnylane Rd

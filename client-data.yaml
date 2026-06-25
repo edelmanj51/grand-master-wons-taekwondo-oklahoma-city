@@ -65,6 +65,25 @@ PROGRAM_3_DESCRIPTION: "The only program of its kind in the area — traditional
 PROGRAM_3_AUDIENCE_TEENS: "1"
 PROGRAM_3_AUDIENCE_ADULTS: "1"
 
+PROGRAM_4_NAME: "Hapkido"
+PROGRAM_4_PHOTO: images/stock/program-1.webp
+PROGRAM_4_AGE_RANGE: "Teens & Adults"
+PROGRAM_4_DAYS: "Mon & Thu · 5:30pm"
+PROGRAM_4_SESSION_LEN: "60 min classes"
+PROGRAM_4_DESCRIPTION: "Korean joint-lock and throwing art that develops fluid self-defense technique, body control, and practical grappling skills. Taught alongside Taekwondo as part of a complete martial arts education."
+PROGRAM_4_AUDIENCE_TEENS: "1"
+PROGRAM_4_AUDIENCE_ADULTS: "1"
+
+PROGRAM_5_NAME: "Tai Chi"
+PROGRAM_5_PHOTO: images/stock/program-1.webp
+PROGRAM_5_AGE_RANGE: "All Ages"
+PROGRAM_5_DAYS: "Wednesdays · 5:30pm"
+PROGRAM_5_SESSION_LEN: "60 min classes"
+PROGRAM_5_DESCRIPTION: "Slow, deliberate movement sequences that build balance, flexibility, and mindful focus. An excellent complement to more dynamic training — and a proven practice for long-term health and stress relief."
+PROGRAM_5_AUDIENCE_KIDS: "1"
+PROGRAM_5_AUDIENCE_TEENS: "1"
+PROGRAM_5_AUDIENCE_ADULTS: "1"
+
 REVIEWER_1_NAME: "Daniel Yoder"
 REVIEWER_1_DATE: "6 months ago"
 REVIEWER_1_TEXT: "Well organized and professionally run. Fantastic instructors. Extremely knowledgeable and patient. Tournaments are fantastic, this place is great."
