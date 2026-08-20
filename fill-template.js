@@ -277,6 +277,7 @@ function copyDirSync(src, dst) {
 }
 if (fs.existsSync('images')) copyDirSync('images', path.join('dist', 'images'));
 if (fs.existsSync('brand_assets')) copyDirSync('brand_assets', path.join('dist', 'brand_assets'));
+if (fs.existsSync('docs')) copyDirSync('docs', path.join('dist', 'docs'));
 
 // ── IF block processor ────────────────────────────────────────────────────────
 // Syntax: <!-- [IF:TOKEN_NAME] --> content <!-- [/IF:TOKEN_NAME] -->
